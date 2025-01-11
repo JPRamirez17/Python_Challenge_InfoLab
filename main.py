@@ -19,4 +19,4 @@ def random_multiply_challenge():
 
 
 if __name__ == "__main__":
-    random_multiply_challenge()
+    random_multiply_challenge() # pragma: no cover
