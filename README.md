@@ -12,3 +12,7 @@ Create and call a python function that :
 - Prints A and C for every result until C = 4
 - If C = 4 , print ‘Success!’ and the results for A and B
 ```
+**Instructions:**
+1. Download the ```main.py``` Python script to your local machine or desired environment
+2. Open the command line in the folder with the Python script and run ```python main.py```
+- Testing and CI was done for corretness purposes
